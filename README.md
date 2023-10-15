@@ -9,6 +9,9 @@ Deployed website: https://secure-phish.vercel.app/
 
 
 Some screenshots:
+
+
+
 ![image](https://github.com/anusha-shanbhog/SecurePhish/assets/92755610/f8daa031-39ca-48dc-ba63-a95aa20c1e01)
 ![image](https://github.com/anusha-shanbhog/SecurePhish/assets/92755610/3537d3a5-fe39-4ab4-a215-d1ba507afff4)
 ![image](https://github.com/anusha-shanbhog/SecurePhish/assets/92755610/96f446be-1826-46bd-97ec-b3ab13167ce4)
