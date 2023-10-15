@@ -1,0 +1,29 @@
+{
+	"name": "SecurePhish",
+	"version": "0.0.1",
+	"description": "Chrome Extension",
+	"manifest_version": 3,
+	"author": "Anusha, Chetan, Saanvika, Vishnu, Vishwas, Yash",
+	"icons": {
+		"64": "phish.png"
+	},
+	"host_permissions": [
+		"http://*/*",
+		"https://*/*"
+	],
+	"permissions": [
+		"storage"
+	],
+	"content_scripts": [
+		{
+			"matches": [
+				"http://*/*",
+				"https://*/*"
+			],
+			"js": [
+				"content.js"
+			],
+			"run_at": "document_start"
+		}
+	]
+}
